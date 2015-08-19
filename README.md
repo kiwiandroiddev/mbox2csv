@@ -15,4 +15,4 @@ Add the `bin` directory to your `PATH`. E.g.
 
 # Credits
 
-Based on [this blog post](http://www.ripariandata.com/blog/how-to-export-your-gmail-to-excel) and [github repo](http://www.ripariandata.com/blog/how-to-export-your-gmail-to-excel)
+Based on [this blog post](http://www.ripariandata.com/blog/how-to-export-your-gmail-to-excel) and [github repo](https://github.com/gitabites/mboxtocsv)
